@@ -5,6 +5,7 @@ import AddTodo from '../containers/AddTodo';
 // import { createStore } from 'redux';
 // import { Provider } from 'react-redux';
 // pure presentational component
+//sth about App
 
 class App extends React.Component {
   render() {
